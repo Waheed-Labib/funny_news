@@ -1,0 +1,5 @@
+# full-size originals; the page uses the resized copies in images/web/
+images/WhatsApp Image *
+
+# local browser-preview output
+.playwright-mcp/
